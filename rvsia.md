@@ -3,7 +3,7 @@ Hello world
 
 
 
-Your favorite fruit: ...
+Your favorite fruit: banana
 
 Your favorite city: ...
 

@@ -5,7 +5,7 @@ Hello world
 
 Your favorite fruit: banana
 
-Your favorite city: ...
+Your favorite city: New York
 
 Your favorite vegetable: ...
 

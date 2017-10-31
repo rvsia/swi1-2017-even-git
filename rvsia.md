@@ -7,7 +7,7 @@ Your favorite fruit: banana
 
 Your favorite city: New York
 
-Your favorite vegetable: ...
+Your favorite vegetable: hrasek
 
 Your favorite color: ...
 
